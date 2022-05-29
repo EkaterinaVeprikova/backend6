@@ -1,26 +1,5 @@
-body{
-	background-color: #fff385b3;
-}
-  
 .error {
   border: 5px solid red;
   margin: 5px;
   border-radius: 5px;
-}
-
-.error_check {
-  text-decoration: underline 5px solid red;
-  margin: 5px;
-}
-
-.ok {
-  border: 5px solid green;
-}
-
-#messages {
-  width: 60%;
-  margin-left: auto;
-  margin-right: auto;
-  position: relative;
-  text-align: center;
 }
